@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 **CSE Core Student** at **SRM Chennai**.
 - 🎯 Aspiring **CDS Officer** and tech enthusiast.
-- 💻 Passionate about programming, video editing, and exploring new technologies.
+- 💻 Passionate about programming , UI/UX DESIGNING , Blender 3d modeling , and exploring new technologies.
 
 ### Connect With Me
 - 📫 Email: **kk1490@srmist.edu.in**
