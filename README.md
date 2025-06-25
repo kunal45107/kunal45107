@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Kunal!
 
 👨‍🎓 About Me
+
+
 🎓 B.Tech CSE Core Student at SRM University, Chennai
 
 🛩️ Aspiring Indian Air Force Officer | 💡 Tech Enthusiast
