@@ -2,22 +2,22 @@
 
 👨‍🎓 About Me
 
+🎓 B.Tech CSE Core Student at SRM University, Chennai (2024–2028)  
+🛩️ Aspiring **Technical Officer in the Indian Air Force** 🇮🇳✈️ | 💡 Tech Enthusiast
 
-🎓 B.Tech CSE Core Student at SRM University, Chennai
+♟️ **Hobbies**: Chess • Rubik’s Cube • Coding
 
-🛩️ Aspiring Indian Air Force Officer | 💡 Tech Enthusiast
+💻 **Passionate About**:
+- Programming
+- UI/UX Design
+- 3D Modeling in Blender
+- Video Editing
+- Exploring New Technologies
 
-♟️ Hobbies: Chess • Rubik’s Cube • Piano Keyboard
+---
 
-💻 Passionate about:
-    • Programming
-    • UI/UX Design
-    • 3D Modeling in Blender
-    • Video Editing
-    • Exploring New Technologies...
-
-### Connect With Me
-- 📫 Email: **kk1490@srmist.edu.in**
+### 📬 Connect With Me
+- Email: **kk1490@srmist.edu.in**
 
 ---
 
