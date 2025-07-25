@@ -7,9 +7,10 @@
 
 ## 🧠 Personal Interests
 
-![Rubik's Cube 🧩](https://img.shields.io/badge/Rubik's_Cube-Enthusiast-brightgreen?style=for-the-badge)
-![Chess ♟️](https://img.shields.io/badge/Chess.com-Player-blue?style=for-the-badge)
-![Blender 3D](https://img.shields.io/badge/Blender-Artist-orange?style=for-the-badge)
+[![Rubik's Cube](https://img.shields.io/badge/Rubik's_Cube-🧩_Solver-green?style=for-the-badge)](https://en.wikipedia.org/wiki/Rubik%27s_Cube)
+[![Chess.com](https://img.shields.io/badge/Chess.com-00A400?style=for-the-badge&logo=Chess.com&logoColor=white)](https://www.chess.com/member/KunalK_shriiii)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
+
 
 💻 **Passionate About**:
 - Programming
