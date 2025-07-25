@@ -5,7 +5,11 @@
 🎓 B.Tech CSE Core Student at SRM University, Chennai (2024–2028)  
 🛩️ Aspiring **Technical Officer in the Indian Air Force** 🇮🇳✈️ | 💡 Tech Enthusiast
 
-♟️ **Hobbies**: Chess • Rubik’s Cube • Coding
+## 🧠 Personal Interests
+
+![Rubik's Cube 🧩](https://img.shields.io/badge/Rubik's_Cube-Enthusiast-brightgreen?style=for-the-badge)
+![Chess ♟️](https://img.shields.io/badge/Chess.com-Player-blue?style=for-the-badge)
+![Blender 3D](https://img.shields.io/badge/Blender-Artist-orange?style=for-the-badge)
 
 💻 **Passionate About**:
 - Programming
